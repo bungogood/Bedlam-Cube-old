@@ -1,5 +1,11 @@
 # Bedlam-Cube
 
+## Running
+
+```bash
+./cube
+```
+
 ## Installation
 
 1. Clone repository
